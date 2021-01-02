@@ -1,0 +1,4 @@
+.metals/
+.vscode/
+derby.log
+metastore_db/
